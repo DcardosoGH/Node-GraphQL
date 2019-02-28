@@ -1,6 +1,7 @@
 {
     "env": {
         "MONGO_USER": "root",
-        "MONGO_PASSWORD":"toor"
+        "MONGO_PASSWORD":"9HvHPS9k4JtzOTpJ",
+        "MONGO_DB": "events-node-graphql"
     }
 }
